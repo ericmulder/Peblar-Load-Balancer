@@ -1,0 +1,4 @@
+title = "Peblar Load Balancer gitleaks config"
+
+[extend]
+useDefault = true
