@@ -2,7 +2,7 @@
 
 Dynamische laadsturing voor de [Peblar Home](https://peblar.com/) laadpaal op basis van:
 
-- **P1 smart meter** (HomeWizard / Slimmelezer) — live huishoudverbruik
+- **P1 smart meter** (Slimmelezer) — live huishoudverbruik
 - **Solax omvormer** — zonne-opbrengst en thuisbatterij (optioneel)
 - **Zonneplan API** — day-ahead dynamische stroomprijzen (optioneel)
 - **Hyundai BlueLink** — SoC en laadstatus (optioneel, uitbreidbaar naar andere auto's)
@@ -41,7 +41,7 @@ Verdere instellingen (drempels, limieten, schema) via de webinterface onder
 | Bron | Doel | Hoe in te stellen |
 |------|------|-------------------|
 | Peblar Home | Laadpaal aansturen | IP + API token via Local API in webinterface laadpaal |
-| HomeWizard P1 | Live netto verbruik | Lokaal IP-adres (geen auth) |
+| Slimmelezer P1 | Live netto verbruik | Lokaal IP-adres (geen auth) |
 
 ### Optionele integraties
 
