@@ -17,6 +17,22 @@ overbelasten.
 
 ---
 
+## Screenshots
+
+![Dashboard](docs/screenshots/Dashboard.png)
+*Dashboard — live overzicht van laadpaal, P1, omvormer en auto.*
+
+![Schema](docs/screenshots/Schema.png)
+*Schema — energiestromen tussen net, zon, batterij, huis en auto.*
+
+![Strategie](docs/screenshots/Strategie.png)
+*Strategie — instellingen voor smart-charging en limieten.*
+
+![Beslissingen](docs/screenshots/Beslissingen.png)
+*Beslissingen — log van waarom de load balancer welk vermogen koos.*
+
+---
+
 ## Snelstart (Docker)
 
 Vereist: Docker + Docker Compose.
